@@ -13,6 +13,7 @@ This one is like the person who meet you on building entrance, or seller at the 
 ![image](https://user-images.githubusercontent.com/125310231/222532163-b5939fdb-a9f2-4ecd-b914-f59b48ce902c.png)
 
 # How to install (static):
+Require: program board, screen for face, (optional) second screen for lua menu, databank, (optional) second program board for html HUD.
 1. Copy all what inside file "bot-static-MIND-v*.conf"
 2. In game RMB on FIRST program board -> Advanced-> Paste lua configuration from clipboard
 3. Connect first screen in "screen_face" slot.
