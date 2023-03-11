@@ -9,8 +9,8 @@ This is the "frame system" for player made bots or characters (NPC). There are t
 
 # bot-static
 This one is like the person who meet you on building entrance, or seller at the counter, or "AI" helper on the ship.
-![image](https://user-images.githubusercontent.com/125310231/222529677-663aaec7-1787-43a2-bf7d-f4fb556eb225.png)
-![image](https://user-images.githubusercontent.com/125310231/222532163-b5939fdb-a9f2-4ecd-b914-f59b48ce902c.png)
+![image](https://user-images.githubusercontent.com/125310231/224507306-8269306a-93f1-44c1-bff9-f3be7f304d59.png)
+![image](https://user-images.githubusercontent.com/125310231/224507324-62847b42-d459-4f6d-8a8a-7dd68a0facd7.png)
 
 # How to install (static):
 Require: program board, screen for face, (optional) second screen for lua menu, databank, (optional) second program board for html HUD.
@@ -32,9 +32,19 @@ Require: program board, screen for face, (optional) second screen for lua menu, 
 
 # How to use.
 
-![image](https://user-images.githubusercontent.com/125310231/222546046-022dc10a-24f6-4eef-b7e3-4e683d809c70.png)
+![image](https://user-images.githubusercontent.com/125310231/224507541-13256213-2cc4-425f-ac81-b8fd86038514.png)
+
+Important functions have comments and info about requaired params.
+
+Find "pressEnter()" and add your triggers with reactions.
+
+Just look at my implementation of bot abilities.
+
+(You even can add accesuars on face, like Hat or glasses)
+
+Have fun!
 
 # bot-dynamic
 -work in progress-
 # How to install (dynamic):
-
+-work in progress-
